@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class singlenumber {
+public class singleNumber {
 
     static class solution {
         public int singlenumber(int[] nums) {
